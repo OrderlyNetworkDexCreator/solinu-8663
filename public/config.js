@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "solinu",
   "VITE_ORDERLY_BROKER_NAME": "solinu",
   "VITE_BROKER_EOA_ADDRESS": "0x188a86065e1418030a58de8663a45f2082418d7a",
   "VITE_DISABLE_MAINNET": "false",
@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/SolinuSolanaInu",
   "VITE_SEO_SITE_NAME": "Solinu",
   "VITE_SEO_SITE_DESCRIPTION": "The next generation perpetuals exchange",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/solinu-8663/",
+  "VITE_SEO_SITE_URL": "https://solinu.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@SolinuSolanaInu",
